@@ -21,7 +21,7 @@ I build production-style software using Java, Spring Boot, React, Docker, Kubern
 
 ## Featured Projects
 
-- [Momentum](https://github.com/TylerPac/MomentumDocker)
+- [Momentum](https://github.com/TylerPac/Momentum)
 - [HomeLab](https://github.com/TylerPac/HomeLab)
 - [OverKill Development](https://github.com/TylerPac/OverKillDevelopment)
 - [DARTS Research Infrastructure](https://github.com/TylerPac/airflow)
