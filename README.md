@@ -1,15 +1,15 @@
 # Hi, I'm Tyler Pac
 
-Software Engineer focused on backend development, full-stack applications, DevOps, and self-hosted infrastructure.
+Backend-focused software engineer building production applications with Java, Spring Boot, React, Docker, Kubernetes, and CI/CD.
 
-I build production-style software using Java, Spring Boot, React, Docker, Kubernetes, and CI/CD. As the founder of OverKill Development, I have led development teams and built software supporting more than 10,000 players across multiple active servers.
+I develop full-stack software and self-hosted infrastructure, with an emphasis on secure REST APIs, database-backed applications, automated deployment, and maintainable system architecture.
 
-## What I'm Working On
+## Featured Work
 
 - **Momentum** — Full-stack fitness analytics platform built with Spring Boot, React, MySQL, Docker, and Jenkins
-- **HomeLab** — Self-hosted infrastructure running 20+ containerized services across AI, networking, security, Git hosting, and knowledge management
-- **OverKill Development** — Full-stack software distribution platform with automated deployment and digital product delivery
-- **DARTS Research Project** — Apache Airflow and Kubernetes infrastructure for reproducible photovoltaic research workflows
+- **Homelab** — Self-hosted Linux infrastructure running 20+ containerized services across AI, networking, Git hosting, monitoring, and knowledge management
+- **OverKill Development** — Software distribution platform and game-server tooling used by more than 10,000 players across multiple active servers
+- **DARTS Research Infrastructure** — Apache Airflow and Kubernetes infrastructure supporting reproducible photovoltaic research workflows
 
 ## Technical Focus
 
@@ -21,10 +21,10 @@ I build production-style software using Java, Spring Boot, React, Docker, Kubern
 
 ## Featured Projects
 
-- [Momentum](https://github.com/TylerPac/Momentum)
-- [HomeLab](https://github.com/TylerPac/HomeLab)
-- [OverKill Development](https://github.com/TylerPac/OverKillDevelopment)
-- [DARTS Research Infrastructure](https://github.com/TylerPac/airflow)
+- [Momentum](https://github.com/TylerPac/Momentum) — Fitness tracking and analytics platform
+- [Homelab](https://github.com/TylerPac/HomeLab) — Containerized self-hosted infrastructure
+- [OverKill Development](https://github.com/TylerPac/OverKillDevelopment) — Software distribution and deployment platform
+- [DARTS Research Infrastructure](https://github.com/TylerPac/airflow) — Reproducible Airflow and Kubernetes research workflows
 
 ## Connect
 
