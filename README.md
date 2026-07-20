@@ -7,9 +7,9 @@ I develop full-stack software and self-hosted infrastructure, with an emphasis o
 ## Featured Work
 
 - **Momentum** — Full-stack fitness analytics platform built with Spring Boot, React, MySQL, Docker, and Jenkins
-- **Homelab** — Self-hosted Linux infrastructure running 20+ containerized services across AI, networking, Git hosting, monitoring, and knowledge management
 - **OverKill Development** — Software distribution platform and game-server tooling used by more than 10,000 players across multiple active servers
 - **DARTS Research Infrastructure** — Apache Airflow and Kubernetes infrastructure supporting reproducible photovoltaic research workflows
+- **Homelab** — Self-hosted Linux infrastructure running 20+ containerized services across AI, networking, Git hosting, monitoring, and knowledge management
 
 ## Technical Focus
 
@@ -22,9 +22,9 @@ I develop full-stack software and self-hosted infrastructure, with an emphasis o
 ## Featured Projects
 
 - [Momentum](https://github.com/TylerPac/Momentum) — Fitness tracking and analytics platform
-- [Homelab](https://github.com/TylerPac/HomeLab) — Containerized self-hosted infrastructure
 - [OverKill Development](https://github.com/TylerPac/OverKillDevelopment) — Software distribution and deployment platform
 - [DARTS Research Infrastructure](https://github.com/TylerPac/airflow) — Reproducible Airflow and Kubernetes research workflows
+- [Homelab](https://github.com/TylerPac/HomeLab) — Containerized self-hosted infrastructure
 
 ## Connect
 
